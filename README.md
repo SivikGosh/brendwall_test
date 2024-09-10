@@ -3,7 +3,7 @@
 Тестировалось на Python версии 3.11.
 
 Запуск проекта:
-```json
+```bash
 $ py -3.11 -m venv venv
 
 $ source venv/scripts/activate (Windows)
